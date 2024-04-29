@@ -1,0 +1,21 @@
+TestNG
+>> It is framework in which NG Stands for next generation
+>>We can execute test case with TestNG
+>>TestNG will execute test cases without main method
+>> We have annotation (@) in Testing
+
+@BeforeSuite (Suit means group of test, multiple methods in program)
+@BeforeTest
+@BeforeClass
+@BeforeMethod
+@Test - (one test case, and execute only one method mens only one test case before write @test )
+@AfterMethod
+@AfterClass
+@AfterSuite
+@AfterTest
+
+#Advantages- 
+1. TestNg generate automatic report
+2. We can prioritize our test cases
+3. We can group our test cases
+4. parallel execution.
